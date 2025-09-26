@@ -1,0 +1,21 @@
+Script started on 2025-09-26 13:22:52+00:00 [TERM="xterm" TTY="/dev/pts/4" COLUMNS="68" LINES="7"]
+[?2004hsh-5.1# ./psh2
+[?2004lArg[0]? ls
+Arg[1]? -l
+Arg[2]? 
+total 68
+-rwxrwxrwx 1 root root     0 Sep 26 13:22 answer.md
+-rwxr-xr-x 1 root root 16128 Sep 26 13:05 fork
+-rwxrwxrwx 1 root root   426 Sep 26 13:05 fork.c
+-rwxrwxrwx 1 root root   339 Sep 26 12:55 myps.sh
+-rwxr-xr-x 1 root root 16544 Sep 26 13:15 psh1
+-rwxrwxrwx 1 root root  1638 Sep 26 13:14 psh1.c
+-rwxr-xr-x 1 root root 16584 Sep 26 13:19 psh2
+-rwxrwxrwx 1 root root  1971 Sep 26 13:20 psh2.c
+-rw-r--r-- 1 root root     0 Sep 26 13:22 psh2_results
+child exited with status 0,0
+Arg[0]? ^C
+[?2004hsh-5.1# exit
+[?2004lexit
+
+Script done on 2025-09-26 13:23:04+00:00 [COMMAND_EXIT_CODE="130"]
